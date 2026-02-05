@@ -12,7 +12,7 @@
 ---
 
 ## 📸 Demo Preview
-*(Add a GIF or Screenshot here showing the drawing action)* ![Demo Placeholder](https://via.placeholder.com/800x400?text=Insert+Gameplay+GIF+Here)
+<img width="1481" height="798" alt="demo" src="https://github.com/user-attachments/assets/54db146e-a095-440b-a72f-e5fb8e270305" />
 
 ---
 
@@ -24,7 +24,7 @@
 | **☝️ Smart Drawing** | Draws only when the **Index Finger** is up. Stops when you make a fist. |
 | **🎯 Circle Challenge** | A gamified mode where users trace a generated circle to test precision. |
 | **📊 Live Scoring** | Algorithms calculate accuracy based on **Radius, Smoothness, & Consistency**. |
-| **🏆 Winner Effects** | Celebratory animations trigger for high scores (>85%). |
+| **🏆 Winner Effects** | Celebratory animations trigger for high scores (>90%). |
 | **💾 Save & Share** | Instantly save your art + camera frame to the local drive. |
 | **🖥️ Public Ready** | Includes **Fullscreen Mode** for kiosks and projector displays. |
 
