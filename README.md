@@ -43,8 +43,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/AvnishR4j/Air-Canvas-Fun-Game](https://github.com/AvnishR4j/Air-Canvas-Fun-Game)
-cd air-canvas
+git clone [https://github.com/AvnishR4j/Air-Canvas-Fun-Game.git](https://github.com/AvnishR4j/Air-Canvas-Fun-Game.git)
+cd Air-Canvas-Fun-Game
 
 2. Install DependenciesBashpip install opencv-python mediapipe numpy
 3. Run the AppBashpython app.py
