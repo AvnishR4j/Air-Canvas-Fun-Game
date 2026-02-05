@@ -16,6 +16,21 @@
 
 ---
 
+## 🎮 Controls & Usage
+
+| Key / Gesture | Action |
+| :--- | :--- |
+| **Index Finger Up** ☝️ | **Start Drawing** |
+| **Fist / 2+ Fingers** ✊ | **Stop Drawing (Hover Mode)** |
+| `G` | **Start New Game** (Circle Mode) |
+| `N` | **Generate New Target** |
+| `C` | **Clear Canvas** |
+| `S` | **Save Artwork** (to `/saves` folder) |
+| `F` | **Toggle Fullscreen** |
+| `Q` | **Quit Application** |
+
+---
+
 ## 🚀 Key Features
 
 | Feature | Description |
